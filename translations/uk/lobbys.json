@@ -17,5 +17,9 @@
   "will_be_deleted": "Лобі буде видалено після виходу!",
   "will_not_be_deleted": "Лобі не буде видалено після виходу!",
   "lobby_hidden": "Лобі успішно приховано від усіх!",
-  "lobby_shown": "Лобі успішно відображається для всіх!"
+  "lobby_shown": "Лобі успішно відображається для всіх!",
+
+  "lobby_addaccess": "Було видано доступ до лобі {{memberOrRole}}!",
+  "lobby_removedaccess": "Було прибрано доступ до лобі {{memberOrRole}}!",
+  "lobby_changedsize": "Ліміт учасників було змінено на {{newLimit}}!"
 }
