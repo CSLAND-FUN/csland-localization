@@ -18,8 +18,7 @@
   "will_not_be_deleted": "Лобби не будет удалено после выхода!",
   "lobby_hidden": "Лобби успешно скрыто от всех!",
   "lobby_shown": "Лобби успешно отображается для всех!",
-
-  "lobby_addaccess": "Был выдан доступ к лобби {{memberOrRole}}!",
+  "lobby_addedaccess": "Был выдан доступ к лобби {{memberOrRole}}!",
   "lobby_removedaccess": "Был убран доступ к лобби {{memberOrRole}}!",
   "lobby_changedsize": "Лимит участников был изменён на {{newLimit}}!"
 }
