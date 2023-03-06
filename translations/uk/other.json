@@ -2,79 +2,62 @@
   "verifier": {
     "pending_action": "Ви впевнені, що хочете зробити це?\nВикористовуйте кнопки нижче для підтвердження або відмови."
   },
-
   "changelog": {
     "current_version": "Поточна версія"
   },
-
   "language": {
     "choose_lang": "Виберіть одну з доступних мов.",
     "changed_lang": "Мову успішно змінено на Українську."
   },
-
   "help": {
     "command_list": "Список команд бота",
-
     "name": "Назва команди",
     "usage": "Використання команди",
     "status": "Статус команди",
     "aliases": "Аліаси",
     "description": "Опис команди",
-
     "status_disabled": "Вимкнена",
     "status_enabled": "Увімкнено"
   },
-
   "clan": {
     "types": {
       "closed": "Закритий",
       "opened": "Відкритий"
     },
-
     "member_plurals": {
       "one": "Учасник",
       "more_1": "Учасника",
       "more_2": "Учасників"
     },
-
     "actions": {
       "manage_members": "Учасники",
       "leave_clan": "Покинути",
-
       "left": "Ви успішно покинули клан!"
     },
-
     "buttons": {
       "new": "Створити клан",
       "list": "Список кланів"
     },
-
     "information_field": "Информация клана",
     "statistics_field": "Статистика клану",
-
     "name": "Назва клану",
     "description": "Опис клану",
     "createdAt": "Дата створення",
     "type": "Тип клану",
-
     "members": "Кількість учасників",
     "moderators": "Кількість модераторів"
   },
-
   "info": {
     "statuses": {
       "blacklisted": "Є блокування",
       "whitelisted": "Немає блокування"
     },
-
     "devices": {
       "web": "Браузер",
       "desktop": "ПК",
       "mobile": "Телефон"
     },
-
     "link_button": "Прив'язати профіль",
-
     "title": "Інформація користувача",
     "id": "ID у системі",
     "bonuses": "Бонусів",
@@ -84,10 +67,8 @@
     "profile_link": "Посилання на профіль",
     "online_with": "У мережі через"
   },
-
   "profile": {
     "title": "Інформація користувача {{login}}",
-
     "site_details": "Загальна інформація",
     "id": "ID на сайті",
     "login": "Логін",
@@ -100,24 +81,19 @@
     "thanks": "Спасибок",
     "answers": "Відповідей на форумі",
     "rating": "Рейтинг",
-
     "contacts": "Контакти",
     "discord": "Discord",
     "telegram": "Telegram",
     "vk": "ВКонтакте",
     "steam": "Steam",
-
     "features": "Особливості",
     "verification": "Статус верифікації",
     "is_staff": "Співробітник проекту",
     "gif_avatar": "GIF Аватарки",
-
     "enabled": "Включено",
     "disabled": "Вимкнені",
-
     "verified": "Підтверджено",
     "not_verified": "Не підтверджено",
-
     "yes": "Так",
     "no": "Ні"
   }
