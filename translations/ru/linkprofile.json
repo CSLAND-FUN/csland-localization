@@ -1,0 +1,12 @@
+{
+  "modal": {
+    "title": "Привязка профиля",
+    "profile_link": "Ссылка на профиль",
+    "regexError": "Неправильно указана ссылка!\nПримеры:\n› https://csland.fun/profile/maksshow \n› https://csland.fun/profile?id=1",
+    "profileNotFound": "Не удалось проверить профиль, проверьте указанную ссылку!",
+    "discordNotLinked": "К данному аккаунту не привязан Discord аккаунт! Привяжите его через {{link}}!",
+    "discordNotIdentical": "Привязанный Discord не совпадает с вашим! Перепривяжите его через {{link}}!",
+    "settings_word": "настройки профиля",
+    "profileLinked": "Ваш профиль успешно привязан!"
+  }
+}

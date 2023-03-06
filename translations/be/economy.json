@@ -1,0 +1,15 @@
+{
+  "#PLURALS:BONUSES": "NULL",
+  "plural_bonus": "бонус",
+  "plural_bonuses_one": "бонуса",
+  "plural_bonuses_two": "бонусов",
+  "pay_success": "Вы успешно передали {{user}} {{amount}} {{word}}!",
+  "transfer_success": "Вы успешно передали {{user}} __ВСЕ СВОИ БОНУСЫ__!",
+  "add_success": "Вы успешно выдали {{amount}} {{word}} {{user}}!",
+  "remove_success": "Вы успешно сняли {{amount}} {{word}} {{user}}!",
+  "bonus_taken": "Вы успешно забрали еженедельный бонус в размере 250 бонусов!",
+  "top": {
+    "title": "Топ-25 лидеров по Бонусам",
+    "your_place": "Ваше место в Топе: {{index}}"
+  }
+}

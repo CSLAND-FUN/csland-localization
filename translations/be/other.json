@@ -1,0 +1,100 @@
+{
+  "verifier": {
+    "pending_action": "Вы уверены, что хотите сделать это?\nИспользуйте кнопки ниже для подтверждения или отказа."
+  },
+  "changelog": {
+    "current_version": "Текущая версия"
+  },
+  "language": {
+    "choose_lang": "Выберите один из доступных языков.",
+    "changed_lang": "Язык успешно изменён на Русский."
+  },
+  "help": {
+    "command_list": "Список команд бота",
+    "name": "Название команды",
+    "usage": "Использование команды",
+    "status": "Статус команды",
+    "aliases": "Алиасы",
+    "description": "Описание команды",
+    "status_disabled": "Выключена",
+    "status_enabled": "Включена"
+  },
+  "clan": {
+    "types": {
+      "closed": "Закрытый",
+      "opened": "Открытый"
+    },
+    "member_plurals": {
+      "one": "Участник",
+      "more_1": "Учаснтика",
+      "more_2": "Учаснтиков"
+    },
+    "actions": {
+      "manage_members": "Участники",
+      "leave_clan": "Покинуть",
+      "left": "Вы успешно покинули клан!"
+    },
+    "buttons": {
+      "new": "Создать клан",
+      "list": "Список кланов"
+    },
+    "information_field": "Информация клана",
+    "statistics_field": "Статистика клана",
+    "name": "Название клана",
+    "description": "Описание клана",
+    "createdAt": "Дата создания",
+    "type": "Тип клана",
+    "members": "Кол-во участников",
+    "moderators": "Кол-во модераторов"
+  },
+  "info": {
+    "statuses": {
+      "blacklisted": "Есть блокировка",
+      "whitelisted": "Нет блокировки"
+    },
+    "devices": {
+      "web": "Браузер",
+      "desktop": "ПК",
+      "mobile": "Телефон"
+    },
+    "link_button": "Привязать профиль",
+    "title": "Информация пользователя",
+    "id": "ID в системе",
+    "bonuses": "Бонусов",
+    "group": "Группа на проекте",
+    "blacklisted": "Статус блокировки",
+    "blacklist_reason": "Причина блокировки",
+    "profile_link": "Ссылка на профиль",
+    "online_with": "В сети через"
+  },
+  "profile": {
+    "title": "Информация пользователя {{login}}",
+    "site_details": "Общая информация",
+    "id": "ID на сайте",
+    "login": "Логин",
+    "route": "Ссылка на профиль",
+    "last_seen": "Последний раз в сети",
+    "reg_date": "Дата регистрации",
+    "birth_date": "День рождения",
+    "name": "Имя",
+    "nick": "Ник на сервере",
+    "thanks": "Спасибок",
+    "answers": "Ответов на форуме",
+    "rating": "Рейтинг",
+    "contacts": "Контакты",
+    "discord": "Discord",
+    "telegram": "Telegram",
+    "vk": "ВКонтакте",
+    "steam": "Steam",
+    "features": "Особенности",
+    "verification": "Статус верификации",
+    "is_staff": "Сотрудник проекта",
+    "gif_avatar": "GIF Аватарки",
+    "enabled": "Включены",
+    "disabled": "Выключены",
+    "verified": "Подтверждён",
+    "not_verified": "Не подтверждён",
+    "yes": "Да",
+    "no": "Нет"
+  }
+}

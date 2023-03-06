@@ -1,0 +1,6 @@
+{
+  "ban_successfullyBanned": "Пользователь {{user}} был забанен по причине \"{{reason}}\"!",
+  "kick_successfullyKicked": "Пользователь {{user}} был выгнан с сервера по причине \"{{reason}}\"!",
+  "clear_successfullyCleared": "Из чата было удалено {{amount}} messages!\nДанное сообщение удалиться через 2 секунды!",
+  "giveaway_toStart": "Чтобы запустить розыгрыш выберите канал, в котором он будет проходить."
+}
