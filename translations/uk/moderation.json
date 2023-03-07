@@ -1,6 +1,6 @@
 {
-  "ban_successfullyBanned": "Користувача {{user}} було забанено з причини \"{{reason}}\"!",
-  "kick_successfullyKicked": "Користувач {{user}} був вигнаний із сервера з причини \"{{reason}}\"!",
-  "clear_successfullyCleared": "З чату було видалено {{amount}} messages!\nДане повідомлення видалитися через 2 секунди!",
-  "giveaway_toStart": "Щоб запустити розіграш виберіть канал, у якому він відбуватиметься."
+  "ban_successfullyBanned": "Користувача {{user}} було заблоковано через \"{{reason}}\"!",
+  "kick_successfullyKicked": "Користувач {{user}} був вигнаний із сервера через \"{{reason}}\"!",
+  "clear_successfullyCleared": "З чату було видалено {{amount}} повідомлень!\nЦе повідомлення буде видалено через 2 секунди!",
+  "giveaway_toStart": "Щоб запустити розіграш виберіть канал, у якому він буде відбуватися."
 }
