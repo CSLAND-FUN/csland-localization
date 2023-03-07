@@ -1,8 +1,8 @@
 {
   "#PLURALS:BONUSES": "NULL",
   "plural_bonus": "бонус",
-  "plural_bonuses_one": "бонуса",
-  "plural_bonuses_two": "бонусов",
+  "plural_bonuses_one": "бонуси",
+  "plural_bonuses_two": "бонусів",
 
   "pay_success": "Ви успішно передали {{user}} {{amount}} {{word}}!",
   "transfer_success": "Ви успішно передали {{user}} __УСІ СВОЇ БОНУСИ__!",
