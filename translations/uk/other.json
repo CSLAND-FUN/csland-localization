@@ -16,7 +16,7 @@
     "status": "Статус команди",
     "aliases": "Псевдоніми",
     "description": "Опис команди",
-    "status_disabled": "Вимкнена",
+    "status_disabled": "Вимкнено",
     "status_enabled": "Увімкнено"
   },
   "clan": {
@@ -90,8 +90,8 @@
     "verification": "Статус верифікації",
     "is_staff": "Співробітник проєкту",
     "gif_avatar": "GIF Аватарки",
-    "enabled": "Включено",
-    "disabled": "Вимкнені",
+    "enabled": "Увімкнено",
+    "disabled": "Вимкнено",
     "verified": "Підтверджений",
     "not_verified": "Не підтверджений",
     "yes": "Так",
