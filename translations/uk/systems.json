@@ -87,7 +87,7 @@
     "lobby_changedsize": "Ліміт учасників було змінено на {{newLimit}}!"
   },
   "economy": {
-    "#PLURALS:BONUSES": "НУЛЬ",
+    "#PLURALS:BONUSES": "NULL",
     "plural_bonus": "бонус",
     "plural_bonuses_one": "бонуси",
     "plural_bonuses_two": "бонусів",
@@ -107,10 +107,10 @@
       "profile_link": "Посилання на профіль",
       "regexError": "Неправильно вказано посилання!\nПриклади:\n› https://csland.fun/profile/maksshow \n› https://csland.fun/profile?id=1",
       "profileNotFound": "Не вдалося перевірити профіль, перевірте вказане посилання!",
-      "discordNotLinked": "К данному аккаунту не привязан Discord аккаунт! Привяжите его через {{link}}!",
-      "discordNotIdentical": "Привязанный Discord не совпадает с вашим! Перепривяжите его через {{link}}!",
-      "settings_word": "настройки профиля",
-      "profileLinked": "Ваш профиль успешно привязан!"
+      "discordNotLinked": "До цього акаунту не прив'язано акаунт Discord! Прив'яжіть його через {{link}}!",
+      "discordNotIdentical": "Прив'язаний Discord не збігається з вашим! Прив'яжіть його через {{link}}!",
+      "settings_word": "налаштування профілю",
+      "profileLinked": "Ваш профіль успішно прив'язано!"
     }
   }
 }
